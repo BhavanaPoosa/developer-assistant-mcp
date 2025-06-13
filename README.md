@@ -71,7 +71,7 @@ Edit your Claude config:
     "developer": {
       "command": "node",
       "args": [
-        "YOUR_FULL_PATH\build\index.js"
+        "YOUR_FULL_PATH\\build\\index.js"
       ]
     }
   }
